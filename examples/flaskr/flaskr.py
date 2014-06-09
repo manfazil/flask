@@ -3,7 +3,7 @@
     Flaskr
     ~~~~~~
 
-    A microblog example application written as Flask tutorial with
+    An microblog example application written as Flask tutorial with
     Flask and sqlite3.
 
     :copyright: (c) 2014 by Armin Ronacher.
